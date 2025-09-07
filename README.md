@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gaurav Kumar
 
-🎓 Mechanical Engineering Graduate | 📊 Aspiring Data Scientist  
+🎓 Mechanical Engineering graduate transitioning into Data Science | Python, SQL, ML, Data Visualization | Hands-on experience in predictive modeling and ML project deployment.  
 📍 Based in Aligarh, India  
 🚀 Currently learning Python, Excel Dashboards, and Machine Learning  
 
