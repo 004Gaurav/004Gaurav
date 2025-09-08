@@ -15,16 +15,22 @@
 ---
 
 ## 🛠️ Skills
-- Python (Beginner)
-- Microsoft Excel (Pivot Tables, Data Cleaning, Dashboards)
-- AutoCAD & SolidWorks (Mechanical Background)
-- Tools: Jupyter Notebook, Google Colab
-
+ - **Programming**: Python, SQL
+ - **ML & AI**: Scikit-learn, PyTorch, TensorFlow, Keras
+ - **Deep Learning & CV**: CNNs, YOLO, OpenCV, MediaPipe
+ - **NLP**: Text Analytics, Sentiment Analysis, Embeddings
+ - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn
+ - **Cloud & DevOps**: AWS S3, Docker, Git/GitHub
+ - **Databases**: MySQL, MongoDB
 ---
 
 ## 📂 Portfolio Projects
 | Project | Description |
-|--------|-------------|
+|---------|-------------|
+| [Phishing Classifier](https://github.com/yourusername/phishing-classifier) | ML system to classify websites as legitimate or phishing with an end-to-end ML pipeline, web interface, and Docker deployment. |
+| [Home Credit Default Prediction](https://github.com/yourusername/home-credit) | ML pipeline predicting client loan default likelihood with feature engineering and Flask web app for real-time & batch predictions. |
+| [Customer Churn Prediction](https://github.com/yourusername/churn-prediction) | Predicting customer churn using ML pipeline, Flask web app, and Docker deployment. |
+
 
 
 ---
