@@ -134,12 +134,19 @@ Visit: [004Gaurav.com](https://004gaurav.github.io/portfolio/)
 <h3 align="center"><code>Mostly Work With:</code></h3>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="59"/>
-  <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="59"/>
-  <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="59"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="59"/>
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="59"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="59"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" style="margin-right: 40px;" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65" style="margin-right: 40px;" />
+
+<img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="65" style="margin-right: 40px;" />
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" style="margin-right: 40px;" />
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" style="margin-right: 40px;" />
+
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" style="margin-right: 40px;" />
+
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" />
 </p>
 
 
