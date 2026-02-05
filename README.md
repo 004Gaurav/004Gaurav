@@ -138,8 +138,6 @@ Visit: [004Gaurav.com](https://004gaurav.github.io/portfolio/)
 
 <img src="https://skillicons.dev/icons?i=tensorflow" width="65" style="margin-right: 40px;" />
 
-<img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="65" style="margin-right: 40px;" />
-
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" style="margin-right: 40px;" />
 
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" style="margin-right: 40px;" />
