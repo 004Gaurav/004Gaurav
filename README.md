@@ -66,7 +66,6 @@ flowchart TB
         t3["AI Projects & Research"]
   end
     EXPERTISE --> LEARNING & TALK
-    TALK --> updating["↻ <b>Currently Building:</b> Scalable offensive security systems"]
     n1 --> role
     n2 --> web
     n3 --> name
