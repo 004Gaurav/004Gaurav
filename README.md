@@ -1,4 +1,6 @@
-<div>
+<div align="center">
+
+<img src="signature.svg" width="500"/>
   <h5>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=004Gaurav&label=Profile+views&color=2d3748&style=for-the-badge">
