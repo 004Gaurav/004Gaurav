@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdf8" />
+      <stop offset="50%" style="stop-color:#818cf8" />
+      <stop offset="100%" style="stop-color:#34d399" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+
+      .hi-text {
+        font-family: 'Space Mono', monospace;
+        font-size: 68px;
+        font-weight: 700;
+        fill: url(#textGrad);
+        filter: url(#glow);
+        animation: fadeIn 1s ease forwards;
+        opacity: 0;
+      }
+      .wave {
+        font-size: 62px;
+        animation: fadeIn 1s ease 0.3s forwards, wave 2s ease-in-out 1.3s infinite;
+        opacity: 0;
+        transform-origin: 70% 80%;
+        display: inline-block;
+      }
+      .cursor {
+        fill: #38bdf8;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes wave {
+        0%   { transform: rotate(0deg); }
+        15%  { transform: rotate(18deg); }
+        30%  { transform: rotate(-8deg); }
+        45%  { transform: rotate(18deg); }
+        60%  { transform: rotate(-4deg); }
+        75%  { transform: rotate(12deg); }
+        100% { transform: rotate(0deg); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- No background — transparent so it blends with GitHub -->
+
+  <!-- Hi there text -->
+  <text class="hi-text" x="50%" y="80" text-anchor="middle">Hi there</text>
+
+  <!-- Waving hand -->
+  <text class="wave" x="630" y="82">👋</text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="718" y="25" width="4" height="58" rx="2"
+        style="animation: blink 1s step-end 1.5s infinite; opacity:0; animation-fill-mode: forwards;"/>
+
+</svg>
