@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%" alt="Gaurav Kumar Banner"/>
 </div>
 
----
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/004gaurav)
@@ -20,11 +20,11 @@
 ![Hi there](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Hi+there+👋)
 
 </div>
-<br>
+
 Engineer by training, data professional by choice. Over the past months I've gone deep into Data Science and Analytics — building end-to-end ML projects, deploying models with Flask and Docker, and working across the full data pipeline. I don't just know the theory, I've shipped real projects. Now stepping into Data Science or Data Analytics.
 
----
 
+<br>
 <div align="center">
 
 ![Tech Stack](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&weight=700&duration=1&pause=0&color=38BDF8&center=true&vCenter=true&repeat=false&width=300&lines=Tech+Stack)
@@ -56,31 +56,38 @@ Engineer by training, data professional by choice. Over the past months I've gon
 
 </div>
 
----
+<br>
+
+<!-- FEATURED PROJECTS - Coming Soon
+<div align="center">
+
+![FEATURED PROJECTS](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&weight=700&duration=1&pause=0&color=38BDF8&center=true&vCenter=true&repeat=false&width=400&lines=🚀+Featured+Projects)
+
+<a href="https://github.com/004Gaurav/Phishing-Classifier">
+  <img src="https://github-readme-stats-snowy-kappa-76.vercel.app/api/pin/?username=004Gaurav&repo=Phishing-Classifier&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/004Gaurav/Home_Credit">
+  <img src="https://github-readme-stats-snowy-kappa-76.vercel.app/api/pin/?username=004Gaurav&repo=Home_Credit&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/004Gaurav/Customer_Churn">
+  <img src="https://github-readme-stats-snowy-kappa-76.vercel.app/api/pin/?username=004Gaurav&repo=Customer_Churn&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/004Gaurav/agentic-honeypot">
+  <img src="https://github-readme-stats-snowy-kappa-76.vercel.app/api/pin/?username=004Gaurav&repo=agentic-honeypot&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+-->
+
+
+
+<br>
 <div align="center">
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=004Gaurav&theme=ayu_mirage)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebbern&theme=ayu_mirage)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=004Gaurav&theme=ayu_mirage)
 
 </div>
-
-<br>
-
-<h3 align="center"><code>Mostly Work With:</code></h3>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"  style="margin-right: 40px;" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="65" style="margin-right: 40px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" style="margin-right: 40px;" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" style="margin-right: 40px;" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" style="margin-right: 40px;" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" />
-</p>
-
-
-</div>
-
----
 
 
